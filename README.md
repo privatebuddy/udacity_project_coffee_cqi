@@ -3,7 +3,7 @@
 ## Project Motivation
 
 This project is using CRISP-DM process to analyse data from https://www.coffeeinstitute.org/ which is scape to share in [Kaggle](https://www.kaggle.com/volpatto/coffee-quality-database-from-cqi), the repository answers 3 questions of:
-
+- Is robusta data remain important?
 - Which country or region is best to select beans for roasting?  
 - Is high acidity coffee lead to high score?  
 - Can we predict cup score like CQI do with some of this data?
